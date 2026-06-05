@@ -18,4 +18,4 @@ services:
     staticPublishPath: dist
     envVars:
       - key: VITE_API_URL
-        value: pokemon-expense-tracker-api.onrender.com/api
+        value: https://pokemon-expense-tracker-1.onrender.com/api
